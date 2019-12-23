@@ -5,10 +5,10 @@
 Most modern OS's come with the folder
 
 ```
-~/.ssh
+cd ~/.ssh
 ```
 
-This is where the private and public keys are stored after they are generated.
+This is where the private and public keys are stored after they are generated. If this doesn't exit,
 
 To generate private keys you have to execute the following commands.
 
@@ -18,12 +18,12 @@ ssh-keygen -t rsa -b 4096 -C "your_email@gmail.com"
 
 _This creates the key files, you will have an option to add a passphrase. This is generally a good idea, if your OS was comprimised the attacker still needs the passphrase to pretend to be you to other servers._
 
-For this example, i'll make a set of keys titles `id_rsa_github`
+For this example, i'll make a set of keys titled `id_rsa_github`
 
 After this is complete you will have the two files created within the `./shh` folder.
 One of these new files will have the suffix `id_rsa_github.pub` This file contains the key you want to share with the world.
 
-Depending on what type of operating system you have, you can copy its contents a few different ways.
+There are a few diff
 
 **MAC**
 

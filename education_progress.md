@@ -22,7 +22,7 @@ __Date Completed__| -
 Course Details    | |
 ------------ | -------------
 __Lecturer__| Colt Steele 
-__Completed__| 31% 
+__Completed__| 41% 
 __Course URL__| [The Modern React Bootcamp (Hooks, Context, NextJS, Router)](https://www.udemy.com/course/modern-react-bootcamp/) 
 __Date Completed__| - 
 ## Node.js, Express, MongoDB & More: The Complete Bootcamp 2020
@@ -40,7 +40,7 @@ __Date Completed__| -
 Course Details    | |
 ------------ | -------------
 __Lecturer__| Andrei Neagoie 
-__Completed__| 27% 
+__Completed__| 29% 
 __Course URL__| [The Complete Junior to Senior Web Developer Roadmap (2020)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/) 
 __Date Completed__| - 
 ## Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
@@ -132,4 +132,22 @@ Course Details    | |
 __Lecturer__| Nathan House 
 __Completed__| 10% 
 __Course URL__| [The Complete Cyber Security Course : Network Security!](https://www.udemy.com/course/network-security-course/) 
+__Date Completed__| - 
+## The Perfect Nginx Server - Ubuntu Edition
+![alt The Perfect Nginx Server - Ubuntu Edition =200x](https://i.udemycdn.com/course/480x270/1272366_dd21_3.jpg)
+
+Course Details    | |
+------------ | -------------
+__Lecturer__| Andrew Eaton 
+__Completed__| 32% 
+__Course URL__| [The Perfect Nginx Server - Ubuntu Edition](https://www.udemy.com/course/the-perfect-nginx-server-ubuntu-edition/) 
+__Date Completed__| - 
+## The Complete Ethical Hacking Course: Beginner to Advanced!
+![alt The Complete Ethical Hacking Course: Beginner to Advanced! =200x](https://i.udemycdn.com/course/480x270/437490_c76a_4.jpg)
+
+Course Details    | |
+------------ | -------------
+__Lecturer__| Ermin Kreponic 
+__Completed__| 13% 
+__Course URL__| [The Complete Ethical Hacking Course: Beginner to Advanced!](https://www.udemy.com/course/penetration-testing/) 
 __Date Completed__| - 

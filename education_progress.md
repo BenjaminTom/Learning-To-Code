@@ -106,3 +106,30 @@ __Lecturer__| Debajyoti Banerjee
 __Completed__| 13% 
 __Course URL__| [Learn Advanced SEO From Scratch,Complete SEO Training Course](https://www.udemy.com/course/learn-advanced-seo-from-scratch/) 
 __Date Completed__| - 
+## iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp
+![alt iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp =200x](https://i.udemycdn.com/course/480x270/1778502_f4b9_11.jpg)
+
+Course Details    | |
+------------ | -------------
+__Lecturer__| Angela Yu 
+__Completed__| 10% 
+__Course URL__| [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) 
+__Date Completed__| - 
+## Linux Security and Hardening, The Practical Security Guide.
+![alt Linux Security and Hardening, The Practical Security Guide. =200x](https://i.udemycdn.com/course/480x270/755984_6223_3.jpg)
+
+Course Details    | |
+------------ | -------------
+__Lecturer__| Jason Cannon 
+__Completed__| 7% 
+__Course URL__| [Linux Security and Hardening, The Practical Security Guide.](https://www.udemy.com/course/linux-security/) 
+__Date Completed__| - 
+## The Complete Cyber Security Course : Network Security!
+![alt The Complete Cyber Security Course : Network Security! =200x](https://i.udemycdn.com/course/480x270/875974_b66d_3.jpg)
+
+Course Details    | |
+------------ | -------------
+__Lecturer__| Nathan House 
+__Completed__| 10% 
+__Course URL__| [The Complete Cyber Security Course : Network Security!](https://www.udemy.com/course/network-security-course/) 
+__Date Completed__| - 
